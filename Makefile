@@ -36,3 +36,6 @@ be-logs: ## Tails the dev log
 
 ssh-be: ## ssh's into the be container
 	U_ID=${UID} docker exec -it --user ${UID} ${DOCKER_BE} bash
+
+rebuild:
+	$(MAKE) stop && $(MAKE) build && $(MAKE) start
