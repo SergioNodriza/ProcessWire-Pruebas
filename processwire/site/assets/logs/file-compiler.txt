@@ -3,3 +3,4 @@
 2021-05-13 12:23:30	guest	http://localhost/	Compiled file: /site/templates/_func.php
 2021-05-13 12:23:34	guest	http://localhost/http404/	Compiled file: /site/templates/basic-page.php
 2021-05-13 12:27:31	guest	http://localhost/site-map/	Compiled file: /site/templates/sitemap.php
+2021-05-13 13:13:28	admin	http://localhost:300/search/?q=a&submit=	Compiled file: /site/templates/search.php
