@@ -1,0 +1,28 @@
+2021-05-13 12:23:30	?	?	Saved module 'SystemUpdater' config data
+2021-05-13 12:23:30	?	?	Saved module info caches
+2021-05-13 12:23:30	guest	http://localhost/	Saved module info caches
+2021-05-13 12:23:30	guest	http://localhost/	Installed module 'ProcessRecentPages'
+2021-05-13 12:23:30	guest	http://localhost/	Saved module info caches
+2021-05-13 12:23:30	guest	http://localhost/	Saved module 'SystemUpdater' config data
+2021-05-13 12:23:34	guest	http://localhost/http404/	Saved module info caches
+2021-05-13 12:23:34	guest	http://localhost/http404/	Installed module 'ProcessLogger'
+2021-05-13 12:23:34	guest	http://localhost/http404/	Saved module info caches
+2021-05-13 12:23:34	guest	http://localhost/http404/	Installed module 'InputfieldIcon'
+2021-05-13 12:23:34	guest	http://localhost/http404/	Saved module info caches
+2021-05-13 12:23:34	guest	http://localhost/http404/	Saved module 'SystemUpdater' config data
+2021-05-13 12:26:11	guest	http://localhost/	Saved module 'SystemUpdater' config data
+2021-05-13 12:27:31	?	?	Saved module 'SystemUpdater' config data
+2021-05-13 12:27:31	?	?	Saved module info caches
+2021-05-13 12:27:31	guest	http://localhost/site-map/	Saved module 'SystemUpdater' config data
+2021-05-13 12:27:33	guest	http://localhost/about/what/	Saved module 'SystemUpdater' config data
+2021-05-13 12:27:34	?	?	Saved module info caches
+2021-05-13 12:27:34	?	?	Saved module 'SystemUpdater' config data
+2021-05-13 12:27:34	?	?	Saved module info caches
+2021-05-13 12:27:34	guest	http://localhost/site-map/	Saved module 'SystemUpdater' config data
+2021-05-13 12:27:36	guest	http://localhost/	Saved module 'SystemUpdater' config data
+2021-05-13 12:27:38	guest	http://localhost/about/	Saved module 'SystemUpdater' config data
+2021-05-13 12:28:35	guest	http://localhost/http404/	Saved module info caches
+2021-05-13 12:28:35	guest	http://localhost/http404/	Installed module 'AdminThemeUikit'
+2021-05-13 12:28:35	guest	http://localhost/http404/	Saved module info caches
+2021-05-13 12:28:50	guest	http://localhost/http404/	Saved module info caches
+2021-05-13 12:29:00	guest	http://localhost/processwire/login/	Saved module 'ProcessProfile' config data
