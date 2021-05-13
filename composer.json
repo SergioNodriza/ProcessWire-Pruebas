@@ -1,0 +1,5 @@
+{
+    "require": {
+        "processwire/processwire": "^3.0"
+    }
+}
