@@ -1,3 +1,6 @@
 2021-05-13 12:43:06	admin	http://localhost/processwire/profile/	Profile saved - admin_theme
 2021-05-13 12:43:08	admin	http://localhost/processwire/profile/	Profile saved - admin_theme
 2021-05-14 06:48:33	admin	http://localhost:300/processwire/setup/template/removeFields	Deleted field "sidebar" data in 0 row(s) from 0 page(s) using template "planet". [page-by-page] (Fields)
+2021-05-14 07:37:25	admin	http://localhost:300/processwire/page/sort/	Updated sort for 2 pages (ProcessPageSort)
+2021-05-14 07:37:35	admin	http://localhost:300/processwire/page/sort/	Updated sort for 2 pages (ProcessPageSort)
+2021-05-14 11:04:25	admin	http://localhost:300/processwire/page/sort/	Updated sort for 2 pages (ProcessPageSort)

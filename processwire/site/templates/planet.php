@@ -29,6 +29,8 @@
                 renderNavTree($section);
             }
 
+            echo $page->hello();
+
         ?></aside>
     </body>
 

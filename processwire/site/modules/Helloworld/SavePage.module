@@ -1,0 +1,28 @@
+<?php
+
+
+namespace ProcessWire;
+
+
+class SavePage extends WireData implements Module
+{
+
+    public static function getModuleInfo(): array
+    {
+        return [
+            'title' => 'Save Page module',
+            'version' => 1,
+            'summary' => 'Display message when pages are saved',
+            'autoload' => "template=admin",
+            'author' => 'Sergio Gomez'
+        ];
+    }
+
+    public function ready(): void
+    {
+        $this->pages->addHookAfter('saved', function ($event) {
+            $page = $event->arguments(0);
+            $this->message("You just saved page: $page->url");
+        });
+    }
+}

@@ -1,0 +1,53 @@
+<?php namespace ProcessWire;
+
+
+class Greetings extends WireData implements Module {
+
+    public static function getModuleInfo(): array
+    {
+        return [
+            'title' => 'Greetings Module',
+            'summary' => 'Displays greetings',
+            'version' => 1,
+            'autoload' => true,
+            'author' => 'Sergio Gomez'
+        ];
+    }
+
+    public function hi(): string
+    {
+        return "Hello " . $this->user->name . ', nice planet we got there, right?';
+    }
+
+    public function hiAdmin(): string
+    {
+        return "Hi there " . $this->user->name;
+    }
+
+    public function goodbyeAdmin(): string
+    {
+        return "Goodbye " . $this->user->name;
+    }
+
+    public function ready(): void
+    {
+        $this->addHook('Page::hello', $this, 'test');
+
+        if($this->page->template == 'admin' && strpos($this->input->queryString(), 'login') !== false) {
+            $this->message($this->hiAdmin());
+        }
+    }
+
+    /**
+     * @param HookEvent $event
+     */
+    public function test(HookEvent $event): void
+    {
+        $event->return .= '<p>' . $this->hi() . '</p>';
+    }
+
+    public function uninstall(): void
+    {
+        $this->message($this->goodbyeAdmin());
+    }
+}
