@@ -132,5 +132,9 @@ $config->httpHosts = array('localhost:300');
  * Should be true for development sites and false for live/production sites. 
  * 
  */
-$config->debug = false;
+$config->debug = true;
 
+/**
+ * Locale
+ */
+setlocale(LC_ALL, 'es_ES.UTF-8 UTF-8');
