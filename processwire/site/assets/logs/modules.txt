@@ -87,3 +87,130 @@
 2021-05-14 11:51:03	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
 2021-05-14 11:51:03	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
 2021-05-14 12:06:59	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:05:17	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:05:28	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:05:28	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:05:31	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module 'ProcessSimpleAdminPage' config data
+2021-05-17 08:07:18	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:07:18	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:08:03	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:08:09	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:08:09	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:09:56	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:10:05	admin	http://localhost:300/processwire/module/edit?name=Greetings	Uninstalled module 'Greetings'
+2021-05-17 08:10:05	admin	http://localhost:300/processwire/module/edit?name=Greetings	Saved module info caches
+2021-05-17 08:10:14	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:10:14	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:10:21	admin	http://localhost:300/processwire/module/edit?name=SavePage	Uninstalled module 'SavePage'
+2021-05-17 08:10:22	admin	http://localhost:300/processwire/module/edit?name=SavePage	Saved module info caches
+2021-05-17 08:10:34	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:10:38	admin	http://localhost:300/processwire/module/	Installed module 'Greetings'
+2021-05-17 08:10:39	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:10:41	admin	http://localhost:300/processwire/module/edit?name=Greetings	Saved module 'Greetings' config data
+2021-05-17 08:10:45	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:10:45	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:10:47	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module 'ProcessSimpleAdminPage' config data
+2021-05-17 08:10:51	admin	http://localhost:300/processwire/module/	Installed module 'SavePage'
+2021-05-17 08:10:51	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:10:53	admin	http://localhost:300/processwire/module/edit?name=SavePage	Saved module 'SavePage' config data
+2021-05-17 08:15:46	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:15:46	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:15:54	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:15:54	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:16:03	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:16:03	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:17:48	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:17:48	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:20:19	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:20:24	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:20:24	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:21:32	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:21:32	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:28:17	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:28:17	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:28:56	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:28:57	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:31:46	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:31:54	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:31:54	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:32:08	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:32:08	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:33:36	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:33:43	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:33:43	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:33:59	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:33:59	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:34:02	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module 'ProcessSimpleAdminPage' config data
+2021-05-17 08:34:08	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:34:08	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:34:23	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:34:25	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:34:25	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:34:29	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:34:29	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:34:54	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:34:57	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:34:57	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:57:06	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 08:57:12	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:57:12	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:58:05	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:58:05	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 08:58:19	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 08:58:19	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 08:58:44	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 08:58:45	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 09:05:18	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 09:05:18	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 09:05:24	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 09:05:24	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 09:06:34	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Uninstalled module 'ProcessSimpleAdminPage'
+2021-05-17 09:06:34	admin	http://localhost:300/processwire/module/edit?name=ProcessSimpleAdminPage	Saved module info caches
+2021-05-17 09:06:37	admin	http://localhost:300/processwire/module/	Installed module 'ProcessSimpleAdminPage'
+2021-05-17 09:06:37	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 09:14:22	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 09:24:21	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 09:24:25	admin	http://localhost:300/processwire/module/	Installed module 'TextFormatterFindReplace'
+2021-05-17 09:24:25	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 09:32:32	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace	Uninstalled module 'TextFormatterFindReplace'
+2021-05-17 09:32:32	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace	Saved module info caches
+2021-05-17 09:32:34	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 09:32:38	admin	http://localhost:300/processwire/module/	Installed module 'TextFormatterFindReplace'
+2021-05-17 09:32:38	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 09:43:13	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 09:43:15	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 09:44:31	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace	Uninstalled module 'TextFormatterFindReplace'
+2021-05-17 09:44:31	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace	Saved module info caches
+2021-05-17 09:44:36	admin	http://localhost:300/processwire/module/	Installed module 'TextFormatterFindReplace'
+2021-05-17 09:44:36	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 09:47:30	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 09:49:04	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace	Uninstalled module 'TextFormatterFindReplace'
+2021-05-17 09:49:04	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace	Saved module info caches
+2021-05-17 09:49:14	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 09:49:15	admin	http://localhost:300/planets/earth/	Installed module 'TextFormatterFindReplace'
+2021-05-17 09:49:15	admin	http://localhost:300/planets/earth/	Saved module info caches
+2021-05-17 09:54:57	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace	Uninstalled module 'TextFormatterFindReplace'
+2021-05-17 09:54:57	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace	Saved module info caches
+2021-05-17 09:55:23	admin	http://localhost:300/processwire/module/	Installed module 'TextFormatterFindReplace'
+2021-05-17 09:55:23	admin	http://localhost:300/processwire/module/	Saved module info caches
+2021-05-17 10:03:41	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 10:03:56	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 10:04:06	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 10:14:06	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 10:15:13	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 10:15:20	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 10:34:39	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Uninstalled module 'TextFormatterFindReplace'
+2021-05-17 10:34:39	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module info caches
+2021-05-17 10:34:41	admin	http://localhost:300/planets/earth/	Installed module 'TextFormatterFindReplace'
+2021-05-17 10:34:42	admin	http://localhost:300/planets/earth/	Saved module info caches
+2021-05-17 10:34:42	admin	http://localhost:300/planets/earth/	Saved module info caches
+2021-05-17 10:35:04	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 11:04:55	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 11:11:17	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 11:11:21	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 11:11:37	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 11:11:44	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 11:12:53	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 11:42:01	admin	http://localhost:300/processwire/module/?reset=1	Saved module info caches
+2021-05-17 12:07:47	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module 'TextFormatterFindReplace' config data
+2021-05-17 12:08:00	admin	http://localhost:300/processwire/module/edit?name=TextFormatterFindReplace&collapse_info=1	Saved module 'TextFormatterFindReplace' config data

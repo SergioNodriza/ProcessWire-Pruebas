@@ -60,3 +60,9 @@
 2021-05-17 06:03:22	guest	http://localhost:300/processwire/login/	Error: Failed login for 'admin' - Invalid password
 2021-05-17 06:03:27	guest	http://localhost:300/processwire/login/	Error: Failed login for 'admin' - Blocked login attempt
 2021-05-17 06:04:12	admin	http://localhost:300/processwire/login/	Successful login for 'admin'
+2021-05-17 08:09:26	admin	http://localhost:300/processwire/login/logout/	Logout for 'admin'
+2021-05-17 08:09:32	admin	http://localhost:300/processwire/login/	Successful login for 'admin'
+2021-05-17 08:11:00	admin	http://localhost:300/processwire/login/logout/	Logout for 'admin'
+2021-05-17 08:11:05	admin	http://localhost:300/processwire/login/	Successful login for 'admin'
+2021-05-17 12:10:09	admin	http://localhost:300/processwire/login/logout/	Logout for 'admin'
+2021-05-17 12:10:19	admin	http://localhost:300/processwire/login/	Successful login for 'admin'
